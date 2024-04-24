@@ -1,3 +1,5 @@
+# PROFESSOR NOTE: Our contribution is in the folder our_demo. We included all the code as Isaac touches on these in his demo, and we need the general meta-data of the bye-py package as well. Please only accept our demo code as our contribution. 
+
 # ByePy – Examples
 
 _Say goodbye to python functions!_
